@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arguing Master"
+  short_description: "Craft sharp, controlled anti-troll replies."
+  default_prompt: "Use $arguing-master to craft a sharp but controlled reply to this argument."
